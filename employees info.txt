@@ -1,0 +1,14 @@
+ID: 11
+Name: Youssef Tamer
+Place Of Birth: Tanta
+Age: 25
+Position: senior
+Salary: 6000
+=======================
+ID: 22
+Name: Ahmed 
+Place Of Birth: Tanta
+Age: 26
+Position: seior
+Salary: 6000
+=======================
